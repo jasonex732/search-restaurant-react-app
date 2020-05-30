@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/earch-restaurant-react-app/static/css/main.e1b753fc.chunk.css",
-    "main.js": "/earch-restaurant-react-app/static/js/main.5449716c.chunk.js",
-    "main.js.map": "/earch-restaurant-react-app/static/js/main.5449716c.chunk.js.map",
-    "runtime-main.js": "/earch-restaurant-react-app/static/js/runtime-main.a7d1f0c2.js",
-    "runtime-main.js.map": "/earch-restaurant-react-app/static/js/runtime-main.a7d1f0c2.js.map",
-    "static/js/2.0dc263be.chunk.js": "/earch-restaurant-react-app/static/js/2.0dc263be.chunk.js",
-    "static/js/2.0dc263be.chunk.js.map": "/earch-restaurant-react-app/static/js/2.0dc263be.chunk.js.map",
-    "index.html": "/earch-restaurant-react-app/index.html",
-    "precache-manifest.4ce6a465f6ff8d072b08bb282200da26.js": "/earch-restaurant-react-app/precache-manifest.4ce6a465f6ff8d072b08bb282200da26.js",
-    "service-worker.js": "/earch-restaurant-react-app/service-worker.js",
-    "static/css/main.e1b753fc.chunk.css.map": "/earch-restaurant-react-app/static/css/main.e1b753fc.chunk.css.map",
-    "static/js/2.0dc263be.chunk.js.LICENSE.txt": "/earch-restaurant-react-app/static/js/2.0dc263be.chunk.js.LICENSE.txt",
-    "static/media/SearchBar.css": "/earch-restaurant-react-app/static/media/background_search_mobile.5d0905e6.jpg"
+    "main.css": "/search-restaurant-react-app/static/css/main.f0ce9acc.chunk.css",
+    "main.js": "/search-restaurant-react-app/static/js/main.4cea9b97.chunk.js",
+    "main.js.map": "/search-restaurant-react-app/static/js/main.4cea9b97.chunk.js.map",
+    "runtime-main.js": "/search-restaurant-react-app/static/js/runtime-main.595460a3.js",
+    "runtime-main.js.map": "/search-restaurant-react-app/static/js/runtime-main.595460a3.js.map",
+    "static/js/2.0dc263be.chunk.js": "/search-restaurant-react-app/static/js/2.0dc263be.chunk.js",
+    "static/js/2.0dc263be.chunk.js.map": "/search-restaurant-react-app/static/js/2.0dc263be.chunk.js.map",
+    "index.html": "/search-restaurant-react-app/index.html",
+    "precache-manifest.2afbd8a2578f7fc08bc1d389220a12b9.js": "/search-restaurant-react-app/precache-manifest.2afbd8a2578f7fc08bc1d389220a12b9.js",
+    "service-worker.js": "/search-restaurant-react-app/service-worker.js",
+    "static/css/main.f0ce9acc.chunk.css.map": "/search-restaurant-react-app/static/css/main.f0ce9acc.chunk.css.map",
+    "static/js/2.0dc263be.chunk.js.LICENSE.txt": "/search-restaurant-react-app/static/js/2.0dc263be.chunk.js.LICENSE.txt",
+    "static/media/SearchBar.css": "/search-restaurant-react-app/static/media/background_search_mobile.5d0905e6.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.a7d1f0c2.js",
+    "static/js/runtime-main.595460a3.js",
     "static/js/2.0dc263be.chunk.js",
-    "static/css/main.e1b753fc.chunk.css",
-    "static/js/main.5449716c.chunk.js"
+    "static/css/main.f0ce9acc.chunk.css",
+    "static/js/main.4cea9b97.chunk.js"
   ]
 }
